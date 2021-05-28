@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-notes-app/blob/d85e27aa1731ae28ed72b06b1ac888fee975ef08/notes-app.gif" alt="" />
 
 # Getting Started with Create React App
 
